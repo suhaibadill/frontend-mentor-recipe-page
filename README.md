@@ -12,7 +12,6 @@ Frontend Mentor challenges help you improve your coding skills by building reali
   <img src="./images/recipe-screenshot.png" alt="challenge Screenshot" width="400">
   <p><i>A preview of the result featuring.</i></p>
 </div>
----
 
 ## 🔗 Links
 
