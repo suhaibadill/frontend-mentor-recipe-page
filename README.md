@@ -16,7 +16,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ## 🔗 Links
 
-- **Live Site URL:** [https://suhaibadill.github.io/recipe-page/](https://suhaibadill.github.io/recipe-page/)
+- **Live Site URL:** [https://suhaibadill.github.io/frontend-mentor-recipe-page/](https://suhaibadill.github.io/recipe-page/)
 
 ---
 
